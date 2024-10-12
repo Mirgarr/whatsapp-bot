@@ -29,7 +29,8 @@ This is made by me
 ## <a id="setup"></a> 📁 〢 Setting up
 1. Install [Python](https://www.python.org/downloads/)
 2. Install [Files](https://github.com/mirgarr/whatsapp-bot/archive/refs/heads/main.zip)
-3. Click on [start.bat](https://github.com/mirgarr/whatsapp-bot/blob/main/start.bat)
+3. Extract [Files](https://github.com/mirgarr/whatsapp-bot/archive/refs/heads/main.zip)
+4. Click on [start.bat](https://github.com/mirgarr/whatsapp-bot/blob/main/start.bat)
 5. Enjoy the tool
 
 
