@@ -37,10 +37,10 @@ This is made by me
 
 ## <a id="features"></a>🔰 〢 Features
 ```diff
-> send msg
-> send multiple messages
-> and more
-- delete messages
+> Send msg ✅
+> Send multiple messages ✅
+> And more ➕
+- delete messages ❌
 ```
 
 
